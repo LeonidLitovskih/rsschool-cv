@@ -30,3 +30,13 @@ Your task is to calculate how many blank pages do you need. If n < 0 or m < 0 re
 
 
 # Education #
+
+* **Belarusian National Technical University** (Faculty of Information Technology and Robotics) - bachelor (programmer-engineer)
+
+# Languages: #
+
+* **English**: A2-B1 (online test at EFSET) 
+
+![](https://i.ibb.co/qB38dpG/2023-03-11-163503907.png)
+* **Russian**: Native
+* **Belarusian**: Native
